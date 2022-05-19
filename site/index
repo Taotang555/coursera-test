@@ -1,0 +1,33 @@
+<html>
+<body> Greet
+<div>
+<h1> My Interest </h1>
+
+  <li class= "inte"> Piano </li>
+  <li class= "inte"> Game </li>
+  <li> FaceBook </li>
+  <li> dgdgf </li>
+</div>
+<div>
+  <h1> My Table </h1>
+  <table>
+    <tr>
+      <th> Image </th>
+      <th> link </th>
+    </tr>
+    <tr>
+      <td><img src = "https://media.istockphoto.com/photos/villefranche-on-sea-in-evening-picture-id1145618475?k=20&m=1145618475&s=612x612&w=0&h=_mC6OZt_eWENYUAZz3tLCBTU23uvx5beulDEZHFLsxI=" width = 200 height = 200 id = "pic"></td>
+      <td>
+        <ul>
+        <li><a href = "https://media.istockphoto.com/photos/villefranche-on-sea-in-evening-picture-id1145618475?k=20&m=1145618475&s=612x612&w=0&h=_mC6OZt_eWENYUAZz3tLCBTU23uvx5beulDEZHFLsxI=" target = "blank_"> This picture </a>         </li>
+          <li> Width = 200</li>
+          <li> Height = 200</li>
+          <li>Open in new tap</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+  </body>
+ 
+  </html>
