@@ -1,0 +1,31 @@
+*{font-family: Montserrat;
+  box-sizing: border-box;
+}
+#header-nav{
+  font-weight: bold;
+  font-size: 5vw;
+}
+.main{ background-color: blueviolet; }
+
+h1{
+  font-weight: bold;
+  text-align: center;
+}
+.row{margin: 0px;}
+section{
+  margin:10px;
+  background: gray;
+  clear: auto;
+  border-radius: 10px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+#collapsable-nav{
+  display: block !important;
+  background-color: pink;
+  color: black;
+}
+section a {
+  color: blue;
+}
+
