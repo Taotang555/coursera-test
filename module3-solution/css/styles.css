@@ -21,11 +21,12 @@ section{
   text-align: center;
 }
 #collapsable-nav{
-  display: block !important;
   background-color: pink;
   color: black;
 }
 section a {
   color: blue;
 }
-
+.text{
+  padding: 10px;
+}
